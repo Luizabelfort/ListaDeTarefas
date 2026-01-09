@@ -19,7 +19,7 @@ Segundo desafio da trilha de front-end do Incode Tech School, a criação de uma
 
 ### :desktop_computer: Demonstração
 
-Atráves [deste link]((https://luizabelfort.github.io/desafio-2---FrontEnd-Incod/)) é possível acessar a página de demonstração do projeto no GitHub Pages
+Atráves [deste link](https://luizabelfort.github.io/desafio-2---FrontEnd-Incod/) é possível acessar a página de demonstração do projeto no GitHub Pages
 
 ---
 
